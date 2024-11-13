@@ -15,6 +15,6 @@ nav_order: 4
 ## Reviewer
 
 - IEEE Transactions on Machine Learning in Communications and Networking
-- The 5th Workshop on CPS\&IoT Security and Privacy on ACM Conference on Computer and Communications Security 2023
+- The 5th Workshop on CPSIoT Security and Privacy on ACM Conference on Computer and Communications Security 2023
 - IEEE Transactions on Inductrial Informatics
 - ACM ASIA Conference on Computer and Communications Security 2025
