@@ -1,13 +1,13 @@
 ---
 layout: default
-permalink: /blog/
+permalink: https://blog.damaoooo.com/
 title: blog
 nav: true
 nav_order: 1
 pagination:
   enabled: true
   collection: posts
-  permalink: /page/:num/
+  permalink: https://blog.damaoooo.com/
   per_page: 5
   sort_field: date
   sort_reverse: true

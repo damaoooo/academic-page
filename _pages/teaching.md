@@ -1,12 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: service
+description: My services and activities
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Teaching Assistant
 
-Organize your courses by years, topics, or universities, however you like!
+- 2023 Fall, Computer Systems Security, KAUST
+- 2024 Fall, Computer Systems Security, KAUST
+
+## Reviewer
+
+- IEEE Transactions on Machine Learning in Communications and Networking
+- The 5th Workshop on CPS\&IoT Security and Privacy on ACM Conference on Computer and Communications Security 2023
+- IEEE Transactions on Inductrial Informatics
+- ACM ASIA Conference on Computer and Communications Security 2025
