@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://damaoooo.github.io/academic-page/sitemap.xml
+Sitemap: https://damaoooo.github.io//sitemap.xml
