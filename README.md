@@ -2,4 +2,4 @@
 
 The site is hosted on Cloudflare. 
 
-Please visite this [site](https://about.damaoooo.com)
+Please visit this [site](https://about.damaoooo.com)
